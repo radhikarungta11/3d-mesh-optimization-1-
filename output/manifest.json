@@ -1,0 +1,16 @@
+{
+  "source_obj": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /input/original.obj",
+  "source_texture": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /input/texture.png",
+  "output_obj": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/textured_model.obj",
+  "output_mtl": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/textured_model.mtl",
+  "output_texture": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/textures/texture.png",
+  "mesh_stats": {
+    "vertices": 75000,
+    "uvs": 75000,
+    "normals": 75000,
+    "faces": 25000,
+    "mtllib": 1,
+    "usemtl": 1
+  },
+  "warnings": []
+}

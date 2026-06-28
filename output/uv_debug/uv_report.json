@@ -1,0 +1,19 @@
+{
+  "source_obj": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /input/original.obj",
+  "source_texture": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /input/texture.png",
+  "uv_count": 75000,
+  "face_count": 25000,
+  "u_range": [
+    0.00013502563524525613,
+    0.9856694936752319
+  ],
+  "v_range": [
+    7.814168930053711e-05,
+    0.9998072558810236
+  ],
+  "outputs": {
+    "uv_layout": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/uv_debug/uv_layout.png",
+    "uv_checker": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/uv_debug/uv_checker.png",
+    "uv_on_texture": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/uv_debug/uv_on_texture.png"
+  }
+}

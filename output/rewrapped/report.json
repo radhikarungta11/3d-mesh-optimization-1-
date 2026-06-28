@@ -1,0 +1,14 @@
+{
+  "source_obj": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /input/original.obj",
+  "source_texture": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /input/texture.png",
+  "output_obj": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/rewrapped/rewrapped_model.obj",
+  "output_mtl": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/rewrapped/rewrapped_model.mtl",
+  "output_texture": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/rewrapped/textures/rebaked_texture.png",
+  "output_uv_layout": "/Users/radhikarungta/Documents/3D Mesh Optimization 1 /output/rewrapped/debug/new_uv_layout.png",
+  "source_vertices": 75000,
+  "source_faces": 25000,
+  "output_vertices": 75000,
+  "output_faces": 25000,
+  "texture_size": 2048,
+  "padding": 4
+}
